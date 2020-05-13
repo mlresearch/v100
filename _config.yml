@@ -1,0 +1,66 @@
+---
+booktitle: Proceedings of the Conference on Robot Learning
+shortname: CoRL
+volume: 100
+year: '2019'
+start: 2019-10-30
+end: 2019-11-01
+url: http://proceedings.mlr.press
+location: Osaka, Japan
+published: 2020-05-12
+layout: proceedings
+series: Proceedings of Machine Learning Research
+id: CoRL-2019
+month: 0
+cycles: false
+bibtex_editor: Kaelbling, Leslie Pack and Kragic, Danica and Sugiura, Komei
+editor:
+- given: Leslie Pack
+  family: Kaelbling
+- given: Danica
+  family: Kragic
+- given: Komei
+  family: Sugiura
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Conference on Robot Learning on 30 October to 01 November 2019
+
+  Published as Volume 100 by the Proceedings of Machine Learning Research on 12 May 2020.
+
+  Volume Edited by:
+    Leslie Pack Kaelbling
+    Danica Kragic
+    Komei Sugiura
+
+  Series Editors:
+    Neil D. Lawrence
+    Mark Reid
+date_str: 30 Oct--01 Nov
+baseurl: "/v100"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+permalink: "/:title.html"
+github:
+  edit: true
+  repository: v100
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+email: ''
+conference:
+  name: Conference on Robot Learning
+  url: 
+  location: ''
+  dates:
+  - 2019-10-30
+  - 2019-10-31
+  - 2019-11-01
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+# Site settings
+# Auto generated from /Users/mreid/mlresearch/v100/corl2019.bib
