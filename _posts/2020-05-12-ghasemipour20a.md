@@ -50,6 +50,10 @@ issued:
   - 5
   - 12
 pdf: http://proceedings.mlr.press/v100/ghasemipour20a/ghasemipour20a.pdf
-extras: []
+extras:
+- label: Source code
+  link: https://github.com/KamyarGh/rl_swiss/blob/master/reproducing/fmax_paper.md
+- label: Website
+  link: https://sites.google.com/view/corl2019fmaxvideos/home
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
