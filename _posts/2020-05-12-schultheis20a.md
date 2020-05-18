@@ -49,6 +49,8 @@ issued:
   - 5
   - 12
 pdf: http://proceedings.mlr.press/v100/schultheis20a/schultheis20a.pdf
-extras: []
+extras:
+- label: Source code
+  link: https://github.com/mschulth/rhc
 # Format based on citeproc: http://blog.martinfenner.org/2013/07/30/citeproc-yaml-for-bibliographies/
 ---
