@@ -6,6 +6,8 @@ year: '2019'
 start: 2019-10-30
 end: 2019-11-01
 url: http://proceedings.mlr.press
+author:
+  name: PMLR
 location: Osaka, Japan
 published: 2020-05-12
 layout: proceedings
